@@ -1,0 +1,1 @@
+@media(max-width:760px){main{grid-template-columns:1fr;gap:42px;padding:45px 0}.status{padding:30px}.status strong{font-size:clamp(6rem,30vw,9rem)}header{padding:18px 20px}nav>a{display:none}footer{padding:18px 20px}}@media(max-width:400px){.theme span{display:none}.actions{align-items:flex-start;flex-direction:column}}
